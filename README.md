@@ -8,7 +8,7 @@ A website that offers search engine optimization, online reputation management, 
 * CSS
 
 ## Website
-https://lernantino.github.io/horiseon/
+https://lonny-v.github.io/horiseon/
 
 ## Contribution
 Made with ❤️ by Lonny Vandenberg
