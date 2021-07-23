@@ -12,3 +12,6 @@ https://lernantino.github.io/horiseon/
 
 ## Contribution
 Made with ❤️ by Lonny Vandenberg
+
+![ScreenShot]/(./assets/images/horiseon-1)
+![ScreenShot]/(./assets/images/horiseon-2)
