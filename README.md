@@ -13,5 +13,5 @@ https://lonny-v.github.io/horiseon/
 ## Contribution
 Made with ❤️ by Lonny Vandenberg
 
-![ScreenShot]/(./assets/images/horiseon-1)
-![ScreenShot]/(./assets/images/horiseon-2)
+![ScreenShot]/(./assets/images/horiseon-1.png)
+![ScreenShot]/(./assets/images/horiseon-2.png)
